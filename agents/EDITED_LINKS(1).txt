@@ -1,0 +1,23 @@
+
+"dwarka": "https://dseu.ac.in/dwarka/index.html",
+"pusa": "https://dseu.ac.in/pusa/index.html",
+"rajkori": "https://dseu.ac.in/rajokri/index.html",
+"shakarpur I": "https://dseu.ac.in/shakarpur-i/index.html",
+"ashok vihar": "https://dseu.ac.in/ashok-vihar/index.html",
+"rohini": "https://dseu.ac.in/rohini/index.html",
+"pitampura": "https://dseu.ac.in/pitampura/index.html",
+"wazirpur": "https://dseu.ac.in/wazirpur/index.html",
+"okhla I": "https://dseu.ac.in/okhla-i/index.html",
+"maharani bagh": "https://dseu.ac.in/maharani-bagh/index.html",
+"jaffarpur": "https://dseu.ac.in/jaffarpur/index.html",
+"bhai parmanand dseu": "https://dseu.ac.in/bhai-parmanand-dseu-",
+"champs dseu okhla II": "https://dseu.ac.in/champs-dseu-okhla-ii-",
+"okhla II": "https://dseu.ac.in/okhla-ii/index.html",
+"siri fort": "https://dseu.ac.in/siri-fort/index.html",
+"dseu mayur vihar": "https://dseu.ac.in/dseu-mayur-vihar-",
+"dseu wcsc pusa": "https://dseu.ac.in/dseu-wcsc-pusa-",
+"ranhola": "https://dseu.ac.in/ranhola/index.html",
+"vivek vihar": "https://dseu.ac.in/vivek-vihar/index.html",
+"dseu dheerpur": "https://dseu.ac.in/dseu-dheerpur-",
+"homepage": "https://dseu.ac.in"
+
